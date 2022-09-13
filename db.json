@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "stuname": "Naseem Ur Rahman",
+      "stuemail": "n.rahmanbcs10@gmail.com",
+      "studesignation": "Frontend Developer (React Js)",
+      "id": 1
+    },
+    {
+      "stuname": "Hilal Ahmad",
+      "stuemail": "ihilalahmad@gmail.com",
+      "studesignation": "Android Developer",
+      "id": 2
+    }
+  ]
+}
